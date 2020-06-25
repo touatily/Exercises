@@ -1,0 +1,13 @@
+## Enonce:
+
+On dispose d'un tableau d'entiers "A" :
+
+1 - Ecrire une fonction "max" qui retourne le plus grand element du tableau.
+2 - Ecrire une fonction qui retourne le deuxieme plus grand element du tableau (*) (**)
+3 - Ecrire une fonction qui retourne le troisieme plus grand element du tableau (*) (**)
+
+(*)	Si un tel element n'existe pas, renvoyer le plus grand.
+(**)	Si un element est duplique, il est considere comme un seul.
+
+(Les fonctions doivent avoir une complexite√lineaire O(n))
+
